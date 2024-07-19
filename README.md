@@ -1,1 +1,8 @@
-Download and open circle.html, drag the point around the edge of the unit circle to change the angle and interact with the unit circle. Special angles 30,45,60 will show exact measures in all quadrants. Script could benefit from some TLC, but seems to work pretty well. Helps me to visualize the unit circle, angles, and trig functions. Built in collaboration with Claude and GPT.
+## Interactive Unit Circle Visualization
+
+Download and open `circle.html` to explore an interactive unit circle. Drag the point around the edge of the circle to change the angle and interact with the unit circle. Special angles (30°, 45°, 60°) will display exact trigonometric values in all quadrants. 
+
+This script, while still a work in progress, provides a helpful tool for visualizing the unit circle, angles, and trigonometric functions. Developed in collaboration with Claude and GPT, it effectively demonstrates key trigonometric concepts.
+
+Feel free to contribute and enhance the script!
+
